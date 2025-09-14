@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+Name: Mingzhen Yang
+CCID: MYANG11
+Lecture: CMPUT291-F25
+Lab: lab1-intro-to-github
